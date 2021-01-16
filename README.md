@@ -13,3 +13,10 @@ This is my clippings from kindle
 
 - 稍等片刻即可通过kindle.572149354.xyz访问本仓库
 
+### kindle标注处理为静态资源
+
+- 处理My Clippings.txt
+  - 使用[kindle](https://github.com/muzi502/kindle)处理My Clippings.txt
+  - 也可以用[ClippingsFere](https://bookfere.com/tools#ClippingsFere)
+- 感谢大大们的开源!!!
+
