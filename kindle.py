@@ -21,6 +21,7 @@ HTML_HEAD = '''<!DOCTYPE html>
 	<link href="../style/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css" />
 	<link href="../style/css/custom.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC">
+    <link rel="icon" href="../images/bread.ico">
 </head>
 <body>
 '''
